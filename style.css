@@ -1,0 +1,14 @@
+.box{
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    display: inline-block; /* Make box into rows */
+    margin: -2px; /* Brought box together */
+}
+
+.black{
+    background-color: black;
+}
+
+
+
